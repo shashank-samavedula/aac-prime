@@ -1,2 +1,2 @@
 # aac-prime
-Monte Carlo algorithms for prime factorisation.
+Implementation of Monte Carlo algorithms for prime factorisation.
