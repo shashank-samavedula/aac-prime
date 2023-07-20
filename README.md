@@ -1,2 +1,2 @@
 # Prime Factorization
-Implementation of Monte Carlo algorithms for prime factorisation.
+Implementation and analysis of two Monte Carlo Algorithms, Pollard Rho and Brent's Algorithm to find prime factors of an integer in Python.
