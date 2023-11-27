@@ -1,2 +1,2 @@
 # Prime Factorization
-Implementation and analysis of two Monte Carlo Algorithms, Pollard Rho and Brent's Algorithm to find prime factors of an integer in Python.
+Implemented and analyzed two Monte Carlo algorithms, Pollard Rho and Brent's Algorithm, for prime factorization of integers in Python. Successfully coded and executed both algorithms, leveraging Monte Carlo techniques to efficiently identify and analyze prime factors. Conducted a thorough analysis of algorithmic performance, evaluating factors such as time complexity, precision, and accuracy in factorization results.
